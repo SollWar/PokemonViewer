@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokemon Viewer</string>
+    <string name="weight">Weight: %1$s kg</string>
+    <string name="height">Height: %1$s m</string>
+</resources>
